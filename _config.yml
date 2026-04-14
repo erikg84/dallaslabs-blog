@@ -1,0 +1,10 @@
+title: Dallas Labs
+description: Engineering blog — mobile apps, Swift cross-platform, Kotlin Multiplatform, and developer tools
+url: "https://erikg84.github.io"
+baseurl: "/dallaslabs-blog"
+theme: minima
+author:
+  name: Dallas Labs
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
