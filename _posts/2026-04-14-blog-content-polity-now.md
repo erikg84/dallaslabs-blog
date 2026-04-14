@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blog Content — polity-now"
-date: 2026-04-14 16:21:18 -0500
+date: 2026-04-14 18:58:09 -0500
 categories: [polity now]
 ---
 
