@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blog Content — quake-companion"
+title: "How to Stay Safe with an Earthquake App: Real-Time Alerts and Seismic Monitoring"
 date: 2026-04-14 18:58:10 -0500
 categories: [quake companion]
 ---

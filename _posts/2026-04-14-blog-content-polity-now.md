@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blog Content — polity-now"
+title: "The Ultimate Voter Guide App: How to Stay Informed and Vote Confidently"
 date: 2026-04-14 18:58:09 -0500
 categories: [polity now]
 ---

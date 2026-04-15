@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blog Content — cabinet-doors-calculator"
+title: "How a Cabinet Calculator Can Cut Your Waste, Save Time, and Boost Your Bottom Line"
 date: 2026-04-14 18:58:07 -0500
 categories: [cabinet doors calculator]
 ---

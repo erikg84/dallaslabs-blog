@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blog Content — iss-spotter"
+title: "How to Become a Pro at Tracking the ISS: The Best ISS Tracker for Every Space Enthusiast"
 date: 2026-04-14 18:58:08 -0500
 categories: [iss spotter]
 ---
